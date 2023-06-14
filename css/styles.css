@@ -81,7 +81,6 @@ img {
 
 .is-active-portfolio {
   position: relative;
-  color: #404bbf;
 }
 .is-active-portfolio::after {
   content: "";
