@@ -56,10 +56,16 @@ img {
 .nav-logo {
   color: var(--dark);
 }
-.is-active-studio {
-  position: relative;
+.nav-link.is-active-studio {
   color: #404bbf;
 }
+.nav-link.is-active-portfolio {
+  color: #404bbf;
+}
+.is-active-studio {
+  position: relative;
+}
+
 .is-active-studio::after {
   content: "";
   position: absolute;
