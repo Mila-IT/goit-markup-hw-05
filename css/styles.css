@@ -583,11 +583,10 @@ img {
   transform: translateX(0%);
   transform: translateY(0%);
 }
-/* .box:hover .overlay {
-  transform: translatex(0);
-  transition-duration: 250ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-} */
+.services-link:focus .services-text-overlay {
+  transform: translateX(0%);
+  transform: translateY(0%);
+}
 
 /* CUSTOMERS */
 
