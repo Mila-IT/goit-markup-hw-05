@@ -179,6 +179,8 @@ img {
 
   background-size: cover;
   background-position: center;
+  width: 1440px;
+  margin: auto;
 }
 .hero-title {
   display: block;
